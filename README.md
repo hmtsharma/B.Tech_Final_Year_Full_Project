@@ -2,8 +2,6 @@
 ![hpp_home](https://github.com/hmtsharma/B.Tech_Final_Year_Full_Project/assets/86962269/d67ca74c-2737-4fdd-8307-3a959967f8f5)
 
 
-<img src="media/hpp_home.png" width="800" height="400">
-
 # Objective:
 The primary objective of the House Price Analysis & Prediction project is to develop a robust and accurate machine learning model that can analyze and predict the prices of properties in Bangalore. We will first build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com. Second step would be to write a python flask server that uses the saved model to serve http requests. Third component is the website built in html & css  that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price.<br>
 The specific objectives include:<br>
