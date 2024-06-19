@@ -1,4 +1,7 @@
 # House Price Predication Project
+![hpp_home](https://github.com/hmtsharma/B.Tech_Final_Year_Full_Project/assets/86962269/d67ca74c-2737-4fdd-8307-3a959967f8f5)
+
+
 <img src="media/hpp_home.png" width="800" height="400">
 
 # Objective:
